@@ -1,7 +1,7 @@
 # Swap text
 
-Swap 2 characters
+Swap character under cursor and next
 : `xp`
 
-Swap 2 lines
+Swap current line and next
 : `ddp`
